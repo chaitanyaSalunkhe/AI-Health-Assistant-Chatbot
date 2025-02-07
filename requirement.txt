@@ -1,5 +1,5 @@
 requests
-geopy.geocoders
+geopy
 streamlit
 nltk
 transformers
