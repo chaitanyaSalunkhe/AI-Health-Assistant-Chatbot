@@ -5,6 +5,8 @@ import nltk
 from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+import tensorflow
+import pytorch
 
 nltk.download('punkt')
 nltk.download('stopwords')
