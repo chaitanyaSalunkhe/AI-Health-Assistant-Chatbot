@@ -1,5 +1,5 @@
 import requests
-from geopy.geocoders import Nominatim
+from geopy.coders import Nominatim
 import streamlit as st
 import nltk
 from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM
