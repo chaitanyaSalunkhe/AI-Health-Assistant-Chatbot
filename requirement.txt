@@ -1,0 +1,10 @@
+requests
+geopy.geocoders
+streamlit
+nltk
+transformers
+tensorflow
+nltk.corpus
+nltk.tokenize
+tf-keras
+pytorch
