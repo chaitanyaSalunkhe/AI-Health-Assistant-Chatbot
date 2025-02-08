@@ -1,10 +1,10 @@
 import requests
-from geopy.geocoders import Nominatim
 import streamlit as st
 import nltk
 from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+from geopy.geocoders import Nominatim
 
 nltk.download('punkt')
 nltk.download('stopwords')
