@@ -1,5 +1,4 @@
 requests
-pytorch
 streamlit
 nltk
 transformers
@@ -8,3 +7,4 @@ nltk.corpus
 nltk.tokenize
 tf-keras
 geopy
+pytorch
