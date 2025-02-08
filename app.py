@@ -1,7 +1,7 @@
 import requests
 import streamlit as st
-import nltk
 from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM
+import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from geopy.geocoders import Nominatim
