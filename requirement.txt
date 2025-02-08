@@ -6,5 +6,5 @@ transformers
 tensorflow
 nltk.corpus
 nltk.tokenize
-tf_keras
+tf-keras
 geopy
